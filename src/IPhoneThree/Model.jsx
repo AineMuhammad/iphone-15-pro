@@ -25,7 +25,7 @@ function Model() {
 
   return (
     <>
-      <OrbitControls enableZoom={false} ref={controlsRef} />
+      <OrbitControls autoRotate enableZoom={false} ref={controlsRef} />
       {/* <ambientLight intensity={8} /> */}
       <directionalLight position={[0, 0, 5]} intensity={6} />
       <directionalLight position={[0, 0, -5]} intensity={6} />
