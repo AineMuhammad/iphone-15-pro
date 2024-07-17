@@ -1,0 +1,11 @@
+.indicator-container {
+  /* margin-bottom: 5vh;
+  width: 12vw !important;
+  margin-left: 43vw;
+  padding: 3vh;
+  background-color: rgb(66 66 69 / 90%);
+  border-radius: 40px;
+  z-index: 10;
+  position: relative; */
+  display: none;
+}
